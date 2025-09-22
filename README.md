@@ -44,6 +44,8 @@ A interface foi desenvolvida com foco na **simplicidade** e **usabilidade**, des
 ## 📌 Autor
 Desenvolvido por **Marcela Viana** ✨  
 Projeto criado para prática de **lógica de programação** e versionamento com **Git e GitHub**.
+
 **Apoio: Oracle e Alura**
+
 
 
