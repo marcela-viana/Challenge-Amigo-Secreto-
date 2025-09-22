@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-Uma aplicação simples em **HTML, CSS e JavaScript** para organizar um sorteio de amigo secreto.  
+Uma aplicação em **HTML, CSS e JavaScript** para organizar um sorteio de amigo secreto.  
 O usuário adiciona nomes em uma lista e, com um clique, o sistema sorteia um amigo de forma totalmente aleatória.
 
 ---
@@ -16,9 +16,9 @@ O usuário adiciona nomes em uma lista e, com um clique, o sistema sorteia um am
 ---
 
 ## 🛠 Tecnologias Utilizadas
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ---
 
@@ -44,3 +44,5 @@ A interface foi desenvolvida com foco na **simplicidade** e **usabilidade**, des
 ## 📌 Autor
 Desenvolvido por **Marcela Viana** ✨  
 Projeto criado para prática de **lógica de programação** e versionamento com **Git e GitHub**.
+**Apoio: Oracle e Alura**
+
